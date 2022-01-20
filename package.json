@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^9.0.2"
+  }
+}
